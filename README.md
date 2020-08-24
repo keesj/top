@@ -5,13 +5,3 @@ top
 
 
 
-
-## :warning: Deprecation warning
-In preparation for the KiCad v6 release this repository will be locked down on 2020-09.01. No new pull-requests will be accepted. Existing pull-requests can be worked on until 2020-10-01. During that time breaking changes can be merged.
-
-
-
-## :warning: Deprecation warning
-
-In preparation for the KiCad v6 release this repository will be locked down on 2020-09.01. No new pull-requests will be accepted. Existing pull-requests can be worked on until 2020-10-01. During that time breaking changes can be merged.
-
